@@ -1,4 +1,4 @@
-#LIVE REZZ - Real-Time Sports Score Application
+# LIVE REZZ - Real-Time Sports Score Application
 LIVE REZZ is a web application developed using Next.js that provides real-time updates and scoring for sports matches. This README file provides an overview of the application and instructions on how to use it effectively.
 
 ## Features
@@ -25,14 +25,15 @@ Update Scores: To update scores for live matches, navigate to the "Update Score"
 Create New Match: If you want to add a new match to the scoreboard, go to the "Create Match" section. Fill in the required details such as team names, match time, etc., and submit the form to create a new match.
 
 ## Technologies Used
-Next.js
-React.js
-TypeScript
-Tailwind (CSS)
-Zustand (state manager)
+- Next.js
+- React.js
+- TypeScript
+- Tailwind (CSS)
+- Zustand (state manager)
 
-#Note:
+# Note:
 
 This application represents an effort to meet the requirements of a specific task, and it may not reflect my best work. While I have added some personal touches and enhancements, the primary goal was to fulfill the task requirements within the given constraints. As such, there may be areas where further refinement and improvement are needed.
 
-I appreciate your understanding and welcome any feedback or suggestions for improvement. Thank you !
+I appreciate your understanding and welcome any feedback or suggestions for improvement. 
+## Thank you !
